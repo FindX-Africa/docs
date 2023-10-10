@@ -1,3 +1,8 @@
+---
+layout: default
+title: Account Deletion
+---
+
 **Account Data Deletion Request**
 
 At FindX, we value your privacy and are committed to ensuring the security of your personal information. If you wish to delete your FindX account and associated data, you can do so by following these steps:
